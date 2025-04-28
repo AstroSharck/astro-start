@@ -1,6 +1,6 @@
 {
   "name": "astro-electron-create",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to create an Electron app",
   "bin": {
     "astro-electron-create": "./index.js"
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TonPseudo/TonRepo.git"
+    "url": "https://github.com/AstroSharck/astro-start.git"
   },
-  "homepage": "https://github.com/TonPseudo/TonRepo#readme",
+  "homepage": "https://github.com/AstroSharck/astro-start#readme",
   "bugs": {
-    "url": "https://github.com/TonPseudo/TonRepo/issues"
+    "url": "https://github.com/AstroSharck/astro-start/issues"
   },
   "license": "MIT"
 }
