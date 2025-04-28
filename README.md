@@ -1,6 +1,6 @@
 # Astro Electron Starter
 
-A simple Node.js CLI to generate a ready-to-use ElectronJS project, including your personal watermark in every file.
+A simple Node.js CLI to generate a ready-to-use ElectronJS project.
 
 ---
 
